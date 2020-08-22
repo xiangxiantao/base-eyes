@@ -19,7 +19,7 @@ public class FileToWordBuilder {
                 });
     }
 
-    Stream<String> stream() {
+    public Stream<String> stream() {
         return builder.build();
     }
 
