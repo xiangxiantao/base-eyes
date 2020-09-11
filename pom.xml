@@ -12,6 +12,7 @@
         <module>eyes-partten</module>
         <module>eyes-algorithm</module>
         <module>eyes-netty</module>
+        <module>base-log</module>
     </modules>
     <packaging>pom</packaging>
 
