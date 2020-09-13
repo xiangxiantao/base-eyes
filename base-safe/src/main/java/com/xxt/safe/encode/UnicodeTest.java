@@ -1,6 +1,4 @@
-package con.xxt.safe.encode;
-
-import java.nio.charset.Charset;
+package com.xxt.safe.encode;
 
 /**
  * @description: con.xxt.safe.encode

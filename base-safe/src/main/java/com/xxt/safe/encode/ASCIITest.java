@@ -1,4 +1,4 @@
-package con.xxt.safe.encode;
+package com.xxt.safe.encode;
 
 /**
  * @description: ASCII是一种常见的编码方式

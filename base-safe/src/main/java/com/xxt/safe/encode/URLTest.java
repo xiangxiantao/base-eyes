@@ -1,4 +1,4 @@
-package con.xxt.safe.encode;
+package com.xxt.safe.encode;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
