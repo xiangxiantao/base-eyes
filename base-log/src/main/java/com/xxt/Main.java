@@ -25,6 +25,14 @@ public class Main {
             logger.error("log4j2日志输出：This is error message.");
             mylogger.trace("main logger info ");
             monitor.trace("monitor info");
+            logger.info("我是{}，你是{}", "我自己", "你自己");
+            logger.info("我是，你是", "我自己", "你自己");
+            try {
+                throw new RuntimeException("this is a runtimeException");
+            }catch (Exception e){
+                logger.warn("有一个异常：",e);
+                logger.warn("有一个异常{}：",e);
+            }
     }
 
 }

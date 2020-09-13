@@ -13,6 +13,7 @@
         <module>eyes-algorithm</module>
         <module>eyes-netty</module>
         <module>base-log</module>
+        <module>base-safe</module>
     </modules>
     <packaging>pom</packaging>
 
